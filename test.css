@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=Questrial&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Faculty&display=swap')
 
 /* ------------------------------------------- */
 /* COLOR PALETTE (darkest to lightest)         */
@@ -14,8 +15,8 @@
 /* MAIN PACK HEADER                            */
 /* ------------------------------------------- */
 h1 {
-    font-size: 3rem;
-    font-family: 'Questrial', cursive;
+    font-size: 4rem;
+    font-family: 'Faculty';
     text-align: center;
 }
 
